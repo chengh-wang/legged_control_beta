@@ -3,6 +3,7 @@
 ### Source code
 
 The source code is hosted on GitHub: [qiayuanliao/legged_control](https://github.com/qiayuanliao/legged_control).
+My modification for husky beta mostly lies on legged_examples/legged_unitree/legged_unitree_description. 
 
 ## Introduction
 
