@@ -1,5 +1,9 @@
 # legged_control
 
+### Source code
+
+The source code is hosted on GitHub: [qiayuanliao/legged_control](https://github.com/qiayuanliao/legged_control).
+
 ## Introduction
 
 legged_control is an NMPC-WBC legged robot control stack and framework based
@@ -15,18 +19,8 @@ The advantage shows below:
 I believe this framework can provide a high-performance and easy-to-use model-based baseline for the legged robot
 community.
 
-https://user-images.githubusercontent.com/21256355/192135828-8fa7d9bb-9b4d-41f9-907a-68d34e6809d8.mp4
-
 ## Installation
 
-### Source code
-
-The source code is hosted on GitHub: [qiayuanliao/legged_control](https://github.com/qiayuanliao/legged_control).
-
-```
-# Clone legged_control
-git clone git@github.com:qiayuanliao/legged_control.git
-```
 
 ### OCS2
 
