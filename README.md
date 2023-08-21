@@ -77,7 +77,7 @@ catkin build legged_unitree_hw
 1. Set your robot type as an environment variable: ROBOT_TYPE
 
 ```
-export ROBOT_TYPE=a1
+export ROBOT_TYPE=huskybeta
 ```
 
 2. Run the simulation:
